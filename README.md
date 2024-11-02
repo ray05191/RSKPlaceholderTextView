@@ -12,7 +12,7 @@ A light-weight UITextView subclass that adds support for placeholder.
 
 1. To add the `RSKPlaceholderTextView` package to your Xcode project, select File > Swift Packages > Add Package Dependency and enter the repository URL. 
     
-        https://github.com/ruslanskorb/RSKPlaceholderTextView.git
+        https://github.com/ray05191/RSKPlaceholderTextView.git
 
 ### Using [CocoaPods](http://cocoapods.org)
 
@@ -24,9 +24,9 @@ A light-weight UITextView subclass that adds support for placeholder.
 
 ### Using [Carthage](https://github.com/Carthage/Carthage)
 
-1.  Add the `ruslanskorb/RSKPlaceholderTextView` project to your [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#cartfile).
+1.  Add the `ray05191/RSKPlaceholderTextView` project to your [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#cartfile).
 
-        github "ruslanskorb/RSKPlaceholderTextView"
+        github "ray05191/RSKPlaceholderTextView"
 
 2.  Run `carthage update`, then follow the [additional steps required](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add the iOS and/or Mac frameworks into your project.
 
@@ -60,9 +60,8 @@ Have fun. Figure out hooks for customization.
 
 Ruslan Skorb
 
-- http://github.com/ruslanskorb
-- http://twitter.com/ruslanskorb
-- ruslan.skorb@gmail.com
+- http://github.com/ray05191
+- ray496749@gmail.com
 
 ## License
 
